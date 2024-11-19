@@ -1,0 +1,10 @@
+faiss-cpu 
+langchain
+transformers
+torch
+sentence-transformers
+streamlit
+langchain-community
+google_generativeai
+python-dotenv
+pypdf
